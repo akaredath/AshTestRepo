@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>wkspc</label>
+	</settings>
+	<users>
+		<user>
+			<path>wkspc.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>HelloWorld\HelloWorld.jcp</path>
+		</project>
+	</projects>
+</workspace>
